@@ -2,9 +2,13 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Daily Practice</b>
+  - [Python Coding Problems](https://github.com/varun1995/PythonPractice/tree/main)
+
 - <b>Full Stack Web Apps</b>
   - [Saas Foundation application](https://github.com/varun1995/SaaS-skeleton) </i>
     - <b>Tech Stack:</b> Django 5, Tailwind CSS, Neon PostgreSQL, Stripe API, Docker, Docker Compose, GitHub Actions, Railway
+      
 - <b>AI Projects</b>
   - [Project-1](https://github.com/varun1995/varun1995)
   - [Project-2](https://github.com/varun1995/varun1995)
@@ -12,6 +16,7 @@
 - <b>QA Projects</b>
   - [Project-1](https://github.com/varun1995/varun1995)
   - [Project-2](https://github.com/varun1995/varun1995)
+    
 - <b>Python</b>
   - [Project-1](https://github.com/varun1995/varun1995)
   - [Project-2](https://github.com/varun1995/varun1995)
