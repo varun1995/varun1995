@@ -10,7 +10,9 @@
     - <b>Tech Stack:</b> Django 5, Tailwind CSS, Neon PostgreSQL, Stripe API, Docker, Docker Compose, GitHub Actions, Railway
       
 - <b>Data engineering Projects</b>
-  - [Real-Time Stock Market Data Pipeline with Apache Kafka and AWS]([https://github.com/varun1995/varun1995](https://github.com/varun1995/Stock_market_kafka_testProject))
+  - [Real-Time Stock Market Data Pipeline with Apache Kafka and AWS](https://github.com/varun1995/Stock_market_kafka_testProject)
+    - <b>Tech Stack:</b> Python 3, Apache Kafka (KRaft mode), EC2, Pandas, kafka-python, s3fs, Amazon S3, AWS Glue, AWS Glue Data Catalog, Amazon Athena
+
   - [Project-2](https://github.com/varun1995/varun1995)
 
 - <b>QA Projects</b>
