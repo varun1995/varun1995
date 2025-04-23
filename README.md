@@ -9,8 +9,8 @@
   - [Saas Foundation application](https://github.com/varun1995/SaaS-skeleton) </i>
     - <b>Tech Stack:</b> Django 5, Tailwind CSS, Neon PostgreSQL, Stripe API, Docker, Docker Compose, GitHub Actions, Railway
       
-- <b>AI Projects</b>
-  - [Project-1](https://github.com/varun1995/varun1995)
+- <b>Data engineering Projects</b>
+  - [Real-Time Stock Market Data Pipeline with Apache Kafka and AWS]([https://github.com/varun1995/varun1995](https://github.com/varun1995/Stock_market_kafka_testProject))
   - [Project-2](https://github.com/varun1995/varun1995)
 
 - <b>QA Projects</b>
